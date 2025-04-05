@@ -17,6 +17,3 @@
  - Flask or FaskAPI : 웹 API 서버
  - MySOL or PostgreSQL
  - Linux (Riocky Linux9)
- 
-
-   
